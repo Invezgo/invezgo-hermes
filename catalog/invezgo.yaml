@@ -1,7 +1,7 @@
 name: invezgo
 title: Invezgo
 repo: https://github.com/Invezgo/invezgo-hermes
-sha: 0000000000000000000000000000000000000000
+sha: a6d8ef4c934fe3e2a2d4bae9ad67576707650d6d
 description: >-
   Indonesia Stock Exchange (IDX/BEI) market data from the Invezgo API: company profiles, price and
   indicator charts, intraday and order book, running trade, broker summary and inventory, broker and
